@@ -18,8 +18,8 @@ Dans cet atelier, nous appliquons apprentissage supervisé pour reconnaitre les 
 
 
 ## Documents dans ce GitHub :
-### 1 notebook Digits_Recognition_Brief.ipynb :
-qui reprend:
+### 1 notebook Digits_Recognition_Meilleur_modele.ipynb :
+pour définir le meilleur modèle de classifieur à l'aide du gridsearch et de pipeline, qui reprend:
 - l'exécution du test de base "test.py"
 - l'excécution de la fusion des différents fichiers *.csv
 - la partie 1 : Base de données, Analyse, Prétraitement et Préparation
@@ -27,6 +27,9 @@ qui reprend:
     - KNN From Scratch
     - KNN Sklearn
 - la partie 3 : mise en place la solution dans l’application de test de personnalité
+
+### 1 notebook Digits_Recognition_Resultat_temps_reel.ipynb :
+pour exécuter la prédiction avec le meilleur modèle défini dans le précédant notebook.
 
 ### le rapport *.pdf :
 qui documente et explique les différentes étapes du notebook
